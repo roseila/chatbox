@@ -15,13 +15,13 @@
 .body_chat {min-width: 600px;font-family: Verdana,FontAwesome;font-size:13px}
 .khungtk {display: block;padding: 5px;background: black;font-weight: bold;color: white;font-size: 20px;}
 .box_onl {position: absolute;width: 200px;top: 0;bottom: 0;background: #FFFFFF;left: 0;border-right: 1px solid #2980b9; font-size: 12px;z-index: 9}
-#Cboxvhg {top: 0;position: absolute;right: 0;left: 200px;padding: 4.5px;border: 1px solid #2980b9;background: #2980b9}
+#Cboxvhg {top: 0;position: absolute;right: 0;left: 200px;padding: 4.5px;border: 1px solid #2980b9;background: #409ad5}
 .result {position: absolute;right: 0;left: 200px;padding: 8px;top: 47px;bottom: 0;overflow: auto;}
 #linkdechen,.popup {display: none}
 input {font-family: Verdana,FontAwesome;cursor: pointer;padding: 8px;border: 1px solid #2980b9;;margin: 0 8px;}
 #text {margin-right: 20px;cursor: text;font-size:12px;border: 1px solid #2980b9}
 #do {border: 0;background: #FFF;border: 1px solid #2980b9;font-size: 13px;color: #666666}
-.tit_onl, .tit_pri {display: block;padding: 12px;color: white;border: 1px solid #2980b9;text-align: center;background: #2980b9;font-size: 16px;}
+.tit_onl, .tit_pri {display: block;padding: 12px;color: white;border: 1px solid #2980b9;text-align: center;background: #409ad5;font-size: 16px;}
 .list_onl, .list_pri {padding: 10px;min-height: 27%;overflow-y: overlay;height: 60px;white-space: pre-wrap;overflow: auto;}
 #divsmilies {background: #FFF;border: 1px solid #2980b9;color: #666666;}
 #chatbox-option-buzz {background: #FFF;border: 1px solid #2980b9;font-size: 13px;color: #666666}
