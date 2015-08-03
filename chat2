@@ -11,22 +11,22 @@
 20%,40%,60%,80%{-webkit-transform:translate3d(10px,0,0); transform:translate3d(10px,0,0)}}
 .shake,.BUZZ{-webkit-animation-name:shake;animation-name:shake}
 .BUZZ {text-align: center;font-family: Verdana;font-size: 18px;color: red}
-#Chatboxvhg {padding: 10px;min-height: 300px;border: 1px solid #2980b9; position: relative;}
+#Chatboxvhg {padding: 10px;min-height: 300px;border: 1px solid #91c5cd; position: relative;}
 .body_chat {min-width: 600px;font-family: Verdana,FontAwesome;font-size:13px}
 .khungtk {display: block;padding: 5px;background: black;font-weight: bold;color: white;font-size: 20px;}
-.box_onl {position: absolute;width: 200px;top: 0;bottom: 0;background: #FFFFFF;left: 0;border-right: 1px solid #2980b9; font-size: 12px;z-index: 9}
-#Cboxvhg {top: 0;position: absolute;right: 0;left: 200px;padding: 4.5px;border: 1px solid #2980b9;background: #409ad5}
+.box_onl {position: absolute;width: 200px;top: 0;bottom: 0;background: #FFFFFF;left: 0;border-right: 1px solid #91c5cd; font-size: 12px;z-index: 9}
+#Cboxvhg {top: 0;position: absolute;right: 0;left: 200px;padding: 4.5px;border: 1px solid #91c5cd;background: #c6e1e5}
 .result {position: absolute;right: 0;left: 200px;padding: 8px;top: 47px;bottom: 0;overflow: auto;}
 #linkdechen,.popup {display: none}
-input {font-family: Verdana,FontAwesome;cursor: pointer;padding: 8px;border: 1px solid #2980b9;;margin: 0 8px;}
-#text {margin-right: 20px;cursor: text;font-size:12px;border: 1px solid #2980b9}
-#do {border: 0;background: #FFF;border: 1px solid #2980b9;font-size: 13px;color: #666666}
-.tit_onl, .tit_pri {display: block;padding: 12px;color: white;border: 1px solid #2980b9;text-align: center;background: #409ad5;font-size: 16px;}
+input {font-family: Verdana,FontAwesome;cursor: pointer;padding: 8px;border: 1px solid #91c5cd;;margin: 0 8px;}
+#text {margin-right: 20px;cursor: text;font-size:12px;border: 1px solid #91c5cd}
+#do {border: 0;background: #FFF;border: 1px solid #91c5cd;font-size: 13px;color: #666666}
+.tit_onl, .tit_pri {display: block;padding: 12px;color: white;border: 1px solid #91c5cd;text-align: center;background: #c6e1e5;font-size: 16px;}
 .list_onl, .list_pri {padding: 10px;min-height: 27%;overflow-y: overlay;height: 60px;white-space: pre-wrap;overflow: auto;}
-#divsmilies {background: #FFF;border: 1px solid #2980b9;color: #666666;}
-#chatbox-option-buzz {background: #FFF;border: 1px solid #2980b9;font-size: 13px;color: #666666}
+#divsmilies {background: #FFF;border: 1px solid #91c5cd;color: #666666;}
+#chatbox-option-buzz {background: #FFF;border: 1px solid #91c5cd;font-size: 13px;color: #666666}
 .nutchenlink .nutchenanh .nutchenvideo {font-size: 13px; color: #666666;}
-#chen_link {background: #FFF;border: 1px solid #2980b9;font-size: 13px;color: #666666}
+#chen_link {background: #FFF;border: 1px solid #91c5cd;font-size: 13px;color: #666666}
 .list_onl a {display: block;padding: 5px;}
 .list_onl a:before {content: "\f1eb";margin-right: 10px;color: red}
 a {text-decoration: blink}
@@ -40,12 +40,12 @@ a {text-decoration: blink}
 .list_pri a:before {content: "\f003";padding-right: 10px;color: red;}
 .tit_pri span {cursor: pointer;}
 .list_onl a[data="true"]:after {content: "\f1d9";padding-left: 10px;color: crimson}
-.chat_name img {width: 30px;vertical-align: middle;border: 1px solid #2980b9;margin-right: 10px;border-radius: 4px;height: 30px}
+.chat_name img {width: 30px;vertical-align: middle;border: 1px solid #91c5cd;margin-right: 10px;border-radius: 4px;height: 30px}
 .chat_name {font-weight: bold}
 .chat_content {font-size: 12px}
 .chat_content.warning {display: block;padding: 5px;border: 1px dashed red;color: red;text-align: center}
 input#link_chen {width: 40%;cursor: TEXT;margin-right: 20px;margin-left: 16px;font-size: 12px;}
-#linkdechen {position: absolute;right: 0;left: 0;top: 45px;border-bottom: 1px solid #2980b9;background: #FFF;z-index: 9999}
+#linkdechen {position: absolute;right: 0;left: 0;top: 45px;border-bottom: 1px solid #91c5cd;background: #FFF;z-index: 9999}
 #smiley_FB_frame {right: 0;word-wrap: break-word;display:none;position: absolute;color: black;left: 1px;z-index: 9999;top: 52px;padding: 10px;border-bottom: 1px solid #0099FF;background: white}
 sub {font-family: Smile;font-size: 35px;font-weight: 300;cursor: pointer}
 sub:hover {color: DeepSkyBlue}
